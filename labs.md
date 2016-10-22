@@ -6,7 +6,7 @@
 
 1. Adach, Dominik - https://github.com/Dadach/
 1. Andrearczyk, Seweryn
-1. Bannach, Robert - https://github.com/rByczeq/sp2016/tree/master/lab01
+1. [Bannach, Robert] (https://github.com/rByczeq/sp2016/tree/master/lab01)
 1. Bieńkowski, Adrian
 1. Chmielewski, Bartosz
 1. Chmielewski, Karol https://github.com/kchmielewski
